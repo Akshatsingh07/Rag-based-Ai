@@ -1,0 +1,5 @@
+Exercise 1 - Solution & Shoutouts seems to be a bit of an outlier since it's actually from Video Number 12, not your current lesson. 
+
+If you're looking for information on where Exercise 1 is taught, I recommend checking out Video Number 9. It starts at timestamp 342.88 seconds and lasts until 344.48 seconds, so you can watch that one to learn more about Id & Classes in HTML.
+
+Let me know if you have any other questions!
