@@ -1,0 +1,14 @@
+# Ignore media folders
+videos/
+audios/
+
+# Ignore media files
+*.mp4
+*.mp3
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment files
+.env
+venv/
